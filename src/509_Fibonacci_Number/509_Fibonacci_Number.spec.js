@@ -1,4 +1,4 @@
-const fib = require('./509_Fibonacci_Number');
+import fib from './509_Fibonacci_Number';
 const { assert } = require('chai');
 
 describe('Fibonacci Number', () => {
